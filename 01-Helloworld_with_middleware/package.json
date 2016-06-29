@@ -4,7 +4,8 @@
   "description": "Chapter-1 part-2",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
   },
   "author": "kamal pandey",
   "license": "ISC",
