@@ -1,0 +1,14 @@
+{
+  "name": "01_helloworld_with_middleware",
+  "version": "1.0.0",
+  "description": "Chapter-1 part-2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamal pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
